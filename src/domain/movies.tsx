@@ -17,8 +17,7 @@ class Movie {
     this.titulo = titulo;
     this.sinopse = sinopse;
     this.tempo = tempo;
-    this.genero
- = genero
+    this.genero = genero
 ;
     this.idadeIndicativa = idadeIndicativa;
     this.imagem = imagem;
